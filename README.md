@@ -8,7 +8,7 @@
 
 # OLX
 ![Entidade-Relação Olx](./imagens/olx-entidaderelacao.png)
-![ModeloDados](./imagens/olx-modelodados.png)
+![ModeloDados](./imagens/olx-modelodedados.png)
 
 # Telecom
 ![ModeloDados Telecom](./imagens/telecom-modelodados.png)
