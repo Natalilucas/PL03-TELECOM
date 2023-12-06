@@ -17,4 +17,4 @@
 ### Modelo de Dados  <br/>
 ![ModeloDados Telecom](./imagens/md-telecom.png)
 ### Entidade-Relação  <br/>
-![Entidade-Relação Telecom](./imagens/telecom-ERD.png)
+![Entidade-Relação Telecom](./imagens/ER.png)
