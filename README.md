@@ -3,9 +3,9 @@
 
 # Geocaching
 ### Modelo de Dados  <br/>
-![Entidade-Relação Geocaching](./imagens/geocaching-entidaderelacao.png)
+![Entidade-Relação Geocaching](./imagens/geocaching-modelodados.png) 
 ### Entidade-Relação  <br/>
-![ModeloDados](./imagens/geocaching-modelodados.png)
+![ModeloDados](./imagens/geocaching-entidaderelacao.png)
 
 # OLX
 ### Modelo de Dados  <br/>
@@ -17,4 +17,4 @@
 ### Modelo de Dados  <br/>
 ![ModeloDados Telecom](./imagens/telecom-modelodados.png)
 ### Entidade-Relação  <br/>
-![Entidade-Relação Telecom](./imagens/telecom-ER.png)
+![Entidade-Relação Telecom](./imagens/telecom-ERD.png)
