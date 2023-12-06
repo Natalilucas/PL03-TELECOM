@@ -15,6 +15,6 @@
 
 # Telecom
 ### Modelo de Dados  <br/>
-![ModeloDados Telecom](./imagens/telecom-modelodados.png)
+![ModeloDados Telecom](./md-telecom.png)
 ### Entidade-Relação  <br/>
 ![Entidade-Relação Telecom](./imagens/telecom-ERD.png)
